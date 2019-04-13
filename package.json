@@ -1,6 +1,6 @@
 {
   "name": "react-lite-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A basic cli to create a light weight react template with typescript.",
   "main": "index.js",
   "scripts": {
