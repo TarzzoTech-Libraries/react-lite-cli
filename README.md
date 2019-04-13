@@ -36,5 +36,5 @@
 
 The result will be as below
 <p>
-<img src='https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg' width='600' alt='Project creation'>
+<img src='./img/output.png' width='600' alt='Project creation'>
 </p>
