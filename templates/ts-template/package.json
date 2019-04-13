@@ -1,0 +1,14 @@
+{
+  "name": "tsx-webpack",
+  "version": "1.0.0",
+  "description": "A React typescript boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"webpack\" \"npm start\"",
+    "start": "webpack-dev-server --mode development --hot",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
