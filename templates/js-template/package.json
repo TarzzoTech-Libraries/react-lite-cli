@@ -1,7 +1,7 @@
 {
-  "name": "tsx-webpack",
+  "name": "js-template",
   "version": "1.0.0",
-  "description": "A React typescript boilerplate",
+  "description": "A React javascript boilerplate",
   "main": "index.js",
   "scripts": {
     "dev": "concurrently \"webpack\" \"npm start\"",
@@ -11,7 +11,7 @@
   "keywords": [
     "react",
     "react-dom",
-    "ts",
+    "js",
     "webpack"
   ],
   "author": "",

@@ -11,14 +11,14 @@
 
 2.Open the terminal at the folder where to create the project. then run
 ```sh
-    react-lite-cli
+    react-lite
 ```
 
-3.Select the template (currently typescript template available).
+3.Select the template (javascript or typescript).
 
 4.Enter the name of the project.
 
-5.Enter your, It is an optional.
+5.Enter your name, It is an optional.
 
 6.After the installation completed
 ```sh

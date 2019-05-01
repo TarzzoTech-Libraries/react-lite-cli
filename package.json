@@ -1,6 +1,6 @@
 {
   "name": "react-lite-cli",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "A basic cli to create a light weight react template with typescript.",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "javascript",
     "typescript",
-    "react-lite-cli"
+    "react-lite"
   ],
   "author": "Vijay Deepak",
   "license": "ISC",
@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/VJD7/react-lite-cli#readme",
   "bin": {
-    "react-lite-cli": "index.js"
+    "react-lite": "index.js"
   }
 }
